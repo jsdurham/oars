@@ -1,6 +1,7 @@
 # Optimal Algorithms for Resolvent Splitting (oars)
 
 This package provides tools for building custom proximal splitting algorithms.
+Love this stuff!!!
 
 ## Using and citing the package
 
